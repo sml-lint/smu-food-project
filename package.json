@@ -1,0 +1,19 @@
+{
+  "name": "foodforthought",
+  "version": "1.0.0",
+  "description": "An interesting application that introduces the different F&B outlets available in SMU",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "helmet": "^5.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}

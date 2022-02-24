@@ -1,0 +1,23 @@
+#suggest-box {
+  position: absolute;
+  width: 50%;
+  background-color: #fff;
+  color: #363636;
+  padding: 2% 5%;
+  z-index: 1000;
+  display: none;
+}
+
+#search-container {
+  position: fixed;
+}
+
+.suggestion {
+  min-width: 100%;
+  color: #363636;
+}
+
+.suggestion:hover {
+  background-color: #777;
+  color: #fff;
+}
